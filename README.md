@@ -81,6 +81,27 @@ It simplifies program management for mentors while providing interns with clear 
 
 ---
 
+## 🛠️ Technologies and Languages
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+<img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/>
+<img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/>
+<img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL / PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" alt="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="40" height="40" alt="Claude Code"/>
+
+</p>
+
+---
+
 # 🛠 Technical Skills
 
 ### Languages
