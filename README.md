@@ -88,7 +88,8 @@ The dashboard allows organizations to track tasks, monitor learning progress, ma
 
 **Tech Used:** React, Node.js, PostgreSQL  
 
-🔗 [**View Project:**](https://musa621.github.io/Capaciti_Services/) 
+🔗  [**View Project:**](http://musa621.github.io/Capaciti_Services/) 
+
 ---
 
 ## 🛠️ Technologies and Languages
