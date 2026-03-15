@@ -64,7 +64,7 @@ The goal of the platform is to simplify the job search process by connecting pro
 
 **Tech Used:** React, Node.js, REST APIs  
 
-🔗 **View Project:** https://lulasearch.netlify.app/home.html
+🔗 [**View Project:**](https://lulasearch.netlify.app/home.html)
 
 ---
 
@@ -76,7 +76,7 @@ This project processes large datasets to identify emotional tone and opinion tre
 
 **Tech Used:** Python, Data Visualization, NLP  
 
-🔗 **View Project:** https://codecrafters-week5.lovable.app/
+🔗 [**View Project:**](https://codecrafters-week5.lovable.app/)
 
 ---
 
@@ -88,7 +88,7 @@ The dashboard allows organizations to track tasks, monitor learning progress, ma
 
 **Tech Used:** React, Node.js, PostgreSQL  
 
-🔗 **View Project:** https://musa621.github.io/Capaciti_Services/
+🔗 [**View Project:**](https://musa621.github.io/Capaciti_Services/) 
 ---
 
 ## 🛠️ Technologies and Languages
