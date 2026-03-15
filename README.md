@@ -57,40 +57,38 @@ ServiceLayer handles authentication, routing, logging, and communication between
 ---
 
 ## 🌍 Lula – South African Job Platform
+
 Lula is a **modern job search platform designed specifically for South Africa**.
 
 The goal of the platform is to simplify the job search process by connecting professionals with employers through a clean, easy-to-use interface that displays real-time job opportunities.
 
-The platform aims to improve accessibility to career opportunities while helping employers discover talent efficiently.
+**Tech Used:** React, Node.js, REST APIs  
 
-**Tech Used:** React, Node.js, REST APIs
-
-**View Project**
+🔗 **View Project:** https://lulasearch.netlify.app/home.html
 
 ---
 
 ## 📊 Sentiment Analysis Dashboard
+
 An interactive dashboard that analyzes **sentiment patterns in textual data**.
 
-This project processes large datasets to identify emotional tone and opinion trends. The dashboard includes visualizations such as sentiment charts, keyword analysis, and data summaries to help users understand public opinion and feedback patterns.
+This project processes large datasets to identify emotional tone and opinion trends. The dashboard includes visualizations such as sentiment charts, keyword analysis, and data summaries to help users understand feedback patterns.
 
-**Tech Used:** Python, Data Visualization, NLP
+**Tech Used:** Python, Data Visualization, NLP  
 
-**View Project**
+🔗 **View Project:** https://codecrafters-week5.lovable.app/
 
 ---
 
-## 📝 Internship Dashboard
+## 📝 Talent Bloom – Internship Dashboard
+
 A platform designed to **manage internship programs and track intern progress**.
 
 The dashboard allows organizations to track tasks, monitor learning progress, manage program structure, and evaluate performance metrics.
 
-It simplifies program management for mentors while providing interns with clear progress tracking.
+**Tech Used:** React, Node.js, PostgreSQL  
 
-**Tech Used:** React, Node.js, PostgreSQL
-
-**View Project**
-
+🔗 **View Project:** https://musa621.github.io/Capaciti_Services/
 ---
 
 ## 🛠️ Technologies and Languages
