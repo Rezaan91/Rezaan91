@@ -7,6 +7,13 @@ My work combines **modern web development, APIs, microservices architecture, and
 
 I enjoy transforming ideas into **functional platforms that improve workflows, automate tasks, and provide meaningful insights.**
 
+<p align="center">
+  🌐 <b>My Portfolio Website</b><br>
+  <a href="https://rezaan-achmat-my-portfolio.netlify.app/" target="_blank">
+    https://rezaan-achmat-my-portfolio.netlify.app/
+  </a>
+</p>
+
 <<p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="320"/>
   <img src="https://img.freepik.com/premium-photo/software-developer-data-center-ensuring-system-can-handle-networking-tasks_482257-100471.jpg" width="420"/>
