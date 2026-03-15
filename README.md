@@ -105,7 +105,7 @@ Git, GitHub, VS Code, Docker, Jupyter
 I'm always open to discussing **new projects, collaboration opportunities, and innovative ideas.**
 
 📧 Email: *(rezaan91@gmail.com)*  
-💼 LinkedIn: *([LinkedIn](https://www.linkedin.com/in/rezaan-achmat-59050774/))*  
+💼 LinkedIn: *([rezaan-achmat-59050774/](https://www.linkedin.com/in/rezaan-achmat-59050774/))*  
 🌐 GitHub: https://github.com/Rezaan91
 
 ⭐ Feel free to explore my repositories and connect if you'd like to collaborate!
