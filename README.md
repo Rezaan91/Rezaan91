@@ -3,10 +3,7 @@
 I'm a **Full-Stack Developer and Builder behind Ubuntu Mzansi Tech**.  
 I focus on building **real-world applications, developer tools, and data-driven platforms** that solve practical problems. My work combines **modern web development, APIs, microservices architecture, and AI-powered tools** to create scalable digital products. I enjoy transforming ideas into **functional platforms that improve workflows, automate tasks, and provide meaningful insights.**
 
-<p align="center">
-  🌐 
-[[My Portfolio Website](https://rezaan-achmat-my-portfolio.netlify.app/)]
-</p>
+🌐 [My Portfolio Website](https://rezaan-achmat-my-portfolio.netlify.app/)
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh5djd2djRldWszY3pyYTAzbW5sNTk4eGIyemU3bXpmd3Z0dDQxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" width="320"/>
