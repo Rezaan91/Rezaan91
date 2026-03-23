@@ -5,7 +5,7 @@ I focus on building **real-world applications, developer tools, and data-driven 
 
 <p align="center">
   🌐 
-  [**My Portfolio Website:**]([https://lulasearch.netlify.app/home.html](https://rezaan-achmat-my-portfolio.netlify.app/))
+([My Portfolio Website](https://rezaan-achmat-my-portfolio.netlify.app/))
 </p>
 
 <p align="center">
