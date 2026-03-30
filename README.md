@@ -25,8 +25,6 @@ The platform allows administrators to monitor hardware assets, track usage, mana
 
 🔗 [**View Project Repo:**](https://github.com/Rezaan91/UM-Tech-TrackSuite)
 
-**View Project**
-
 ---
 
 ## 🤖 UM Tech DevFlow
@@ -38,8 +36,6 @@ DevFlow focuses on simplifying common development tasks such as project manageme
 
 🔗 [**View Project Repo:**](https://github.com/Rezaan91/UM-Tech-DevFlow)
 
-**View Project**
-
 ---
 
 ## 🛠 UM Tech ServiceLayer
@@ -50,8 +46,6 @@ ServiceLayer handles authentication, routing, logging, and communication between
 **Tech Used:** Node.js, Express, REST APIs, PostgreSQL
 
 🔗 [**View Project Repo:**](https://github.com/Rezaan91/UM-Tech-ServiceLayer)
-
-**View Project**
 
 ---
 
