@@ -23,6 +23,8 @@ The platform allows administrators to monitor hardware assets, track usage, mana
 
 **Tech Used:** React, Node.js, PostgreSQL
 
+🔗 [**View Project Repo:**](https://github.com/Rezaan91/UM-Tech-TrackSuite)
+
 **View Project**
 
 ---
@@ -34,6 +36,8 @@ DevFlow focuses on simplifying common development tasks such as project manageme
 
 **Tech Used:** Node.js, APIs, Automation Tools
 
+🔗 [**View Project Repo:**](https://github.com/Rezaan91/UM-Tech-DevFlow)
+
 **View Project**
 
 ---
@@ -44,6 +48,8 @@ A **microservices API infrastructure** that acts as the central backend for mult
 ServiceLayer handles authentication, routing, logging, and communication between different applications. It enables multiple projects to share a common backend architecture.
 
 **Tech Used:** Node.js, Express, REST APIs, PostgreSQL
+
+🔗 [**View Project Repo:**](https://github.com/Rezaan91/UM-Tech-ServiceLayer)
 
 **View Project**
 
