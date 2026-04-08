@@ -23,7 +23,7 @@ The platform allows administrators to monitor hardware assets, track usage, mana
 
 **Tech Used:** React, Node.js, PostgreSQL
 
-🔗 [**View Project Repo:**](https://github.com/Rezaan91/UM-Tech-TrackSuite)
+🔗 [**View Project:**](https://tracksuite-asset-manager.vercel.app/)
 
 ---
 
